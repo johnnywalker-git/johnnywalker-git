@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [my landing page!](johnnywalker.uk)
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **MERN stack**
 
 - 👨‍💻 All of my projects are available at [https://github.com/johnnywalker-git](https://github.com/johnnywalker-git)
 
