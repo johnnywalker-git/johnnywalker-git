@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Johnathan (Johnny)</h1>
 <h3 align="center">A passionate frontend developer from the United Kingdom</h3>
 
-- 🔭 I’m currently working on [A dog walking site!](centrebarks-yorkshire.co.uk)
+- 🔭 I’m currently working on [A dog walking site!]([centrebarks-yorkshire.co.uk](https://github.com/johnnywalker-git/centre-barcs))
 
 - 🌱 I’m currently learning **MERN stack**
 
